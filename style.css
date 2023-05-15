@@ -1,0 +1,137 @@
+.container {
+    height: 1100px;
+    width: 960px;
+    background-color: antiquewhite;
+    margin: 0 auto;
+    padding: 10px;
+    align-content: center;
+}
+
+#Github-Blocks {
+    text-align: center;
+}
+
+.top-row {
+    height: 320px;
+    width: 960px;
+    background-color: cyan;
+    display: flex;
+    align-items: center;
+}
+
+.top-left-box {
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    margin: 10px;
+    display: flex;
+}
+
+#plumber {
+    height: 300px;
+    width: 300px;
+
+}
+
+.top-middle-box {
+    height: 300px;
+    width: 300px;
+    background-color: lightblue;
+    margin: 10px;
+}
+
+#octoliberty {
+    height: 300px;
+    width: 300px;
+}
+
+.top-right-box {
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    margin: 10px;
+}
+
+#heisencat {
+    height: 300px;
+    width: 300px;
+}
+
+.middle-row {
+    height: 320px;
+    width: 960px;
+    background-color: plum;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+    justify-content: center;
+}
+
+.middle-left-box {
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    margin: 10px;
+}
+
+#spidertocat {
+    height: 300px;
+    width: 300px;
+}
+
+.middle-right-box {
+    height: 300px;
+    width: 300px;
+    background-color: white;
+    margin:10px;
+}
+
+#stormtroopocat {
+    height: 300px;
+    width: 300px;
+}
+
+.bottom-row {
+    height: 320px;
+    width: 960px;
+    background-color: white;
+    display: flex;
+    align-items: center;
+    margin: 0 auto;
+}
+
+.bottom-left-box {
+    height: 300px;
+    width: 300px;
+    background-color: whitesmoke;
+    margin: 10px;
+}
+
+#surftocat {
+    height: 300px;
+    width: 300px;
+}
+
+.bottom-middle-box {
+    height: 300px;
+    width: 300px;
+    background-color: wheat;
+    margin: 10px;
+}
+
+#yogitocat {
+    height: 300px;
+    width: 300px;
+}
+
+.bottom-right-box {
+    height: 300px;
+    width: 300px;
+    background-color: black;
+    margin: 10px;
+}
+
+#godotocat {
+    height: 300px;
+    width: 300px;
+}
